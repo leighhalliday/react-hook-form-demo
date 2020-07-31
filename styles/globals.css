@@ -14,3 +14,23 @@ a {
 * {
   box-sizing: border-box;
 }
+
+form {
+  width: 300px;
+  margin: 0 auto;
+}
+
+form > div {
+  padding: 0.25rem;
+}
+
+input {
+  width: 100%;
+  padding: 0.25rem;
+}
+
+button {
+  padding: 0.5rem;
+  background: none;
+  border: 1px solid gray;
+}
